@@ -1,1 +1,58 @@
-hello niggas
+--- LINUX ---
+
+[+]Is KVM/QEMU a better solution than dual booting?
+[+]Start researching hardening & sysadmin shiz
+
+[?]Start learning BASH?
+
+
+surveillance vans?
+	WiSpear -- sells interception vans
+	Stuxnet, Flame, Gauss, Duqu frameworks?
+	NSO group -- mobile 0days, made Pegasus
+	Hacking plane?
+	*use veracrypt - need to build
+	*encrypted dns resolver
+
+	*firewall rule ideas to avoid reverse tcp? possible?
+	*
+	?bluetooth surveillance?
+	?maybe multiple users?
+	*flatpaks, flatseal for perm management
+		*apparmor
+		*fil(r)ejail
+	*SELinux
+	?KVM
+	?whonix
+	?qubes
+
+[+]What is Linux, Linux vs Unix
+	[~]UNIX is a FAMILY of operating systems that support/allow for multitasking and multi-user
+	[~]"Linux" is the kernel upon which distributions are built
+[$]Process management tools & usage?
+
+[$]FHS & standard config files
+
+[$]Configuring linux servers
+
+[$]CLI parameters, features of BASH, etc. Everything CLI efficiency
+
+NETWORKING:
+[$]"Arbitrary connections between computers?" is this just regular but changes the thing?
+	[+]Magic Wormhole? Telnet, SSH? What could this mean?
+	[+]How tracert works
+	  [++]How SSH works and asymmetric vs symmetric key encryption...
+      [+++] Go over PGP, how it works
+[$]In-depth regarding common IP protocols
+	
+	[+] Expand on DNS/Read write ups
+		[+] What are zones REALLY?
+
+
+--- SEX ---
+
+[+]scapy?
+[+]SS7(libss7-2.0 - a C library that interfaces with ss7)
+[+]searxng used commonly among breach users?
+
+
